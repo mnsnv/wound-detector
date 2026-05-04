@@ -10,8 +10,9 @@
 
 ## 📖 About
 
-<img width="1414" height="2000" alt="image" src="https://github.com/user-attachments/assets/d3add802-5973-4ffb-80b4-0ea78b205f48" />
-
+<p align="center">
+  <img width="70%" alt="Wound Detector project poster" src="https://github.com/user-attachments/assets/d3add802-5973-4ffb-80b4-0ea78b205f48" />
+</p>
 
 **Wound Detector** is a full-stack web application that uses AI to identify common wound types (cuts, burns, scratches, bruises) from uploaded images and provide instant first-aid guidance.
 
