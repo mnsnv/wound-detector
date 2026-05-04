@@ -10,6 +10,9 @@
 
 ## 📖 About
 
+<img width="1414" height="2000" alt="image" src="https://github.com/user-attachments/assets/d3add802-5973-4ffb-80b4-0ea78b205f48" />
+
+
 **Wound Detector** is a full-stack web application that uses AI to identify common wound types (cuts, burns, scratches, bruises) from uploaded images and provide instant first-aid guidance.
 
 Many people are unsure how to treat minor injuries when medical help isn't immediately available. Our system gives fast, accessible wound assessment, tracks healing progress over time, and includes a **Doctor Mode** for remote monitoring — sending real-time alerts to medical professionals when severe wounds are detected.
